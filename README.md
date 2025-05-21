@@ -14,7 +14,12 @@
 
 ## 📸 Preview
 
-![SkillBridge AI Screenshot](preview.png) <!-- ضع صورة لاحقاً -->
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview1.png)
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview2.png)
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview3.png)
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview4.png)
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview5.png)
+![SkillBridge AI Screenshot](preview/SkillBridge_AI_preview6.png)
 
 ## 🛠️ Tech Stack
 
